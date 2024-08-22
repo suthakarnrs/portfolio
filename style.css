@@ -1,0 +1,90 @@
+header {
+    background-color: #f5f7f7;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header .logo {
+    font-size: 24px;
+    color: #070302;
+    font-weight: bold;
+}
+
+.hero {
+    background-color: black;
+    text-align: center;
+    margin-top: 0px;
+    
+}
+.hero h1 {
+    color: #f5f7f7;
+    font-size: 40px;
+    margin: 0;
+    padding: 50px;
+    font-weight: 100;
+
+}
+.hero p {
+    font-size: 40px;
+    color: white;
+    margin: 5px ;
+    padding: 90x;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    color: black;
+    justify-content: space-between;
+}
+nav.spa {
+    display: flex;
+    justify-content: space-between; 
+    width: 50%; 
+}
+img{
+    padding: 30px;
+}
+.profile{
+    display: flex;
+}
+.des{
+    margin: 20px;
+}
+.bg{
+    background-image: url(./dark-background-abstract-background-network-3d-background-3840x2160-8324.png);
+    height: 400px;
+}
+.but{
+    background-color: rgb(52, 223, 114);
+    margin-top: 10px;
+
+}
+.carousel-caption{
+    margin-left: 40px;
+    margin-top: -30px;
+}
+.carousel-inner{
+    display: flex;
+}
+* {box-sizing:border-box}
+
+
+.skii {
+    margin-left: 80px;
+  width: 50%; 
+  background-color: #efecec; 
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.java {width: 90%; background-color: #04AA6D;} /* Green */
+.dsa {width: 80%; background-color: #2196F3;} /* Blue */
+.sql {width: 85%; background-color: #f44336;} /* Red */
+.front {width: 80%; background-color: #808080;} 
+
